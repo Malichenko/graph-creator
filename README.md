@@ -2,7 +2,7 @@
     <h1>
         Graph creator app
     </h1>
-    <a href="https://malichenko.github.io/graph-creator/">Weather widget ссылка</a>
+    <a href="https://malichenko.github.io/graph-creator/" target="_blank">Graph creator ссылка</a>
 </div>
 
 <br>
