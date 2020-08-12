@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.js": "/graph-creator/static/js/main.6c097edd.chunk.js",
+    "main.js.map": "/graph-creator/static/js/main.6c097edd.chunk.js.map",
+    "runtime-main.js": "/graph-creator/static/js/runtime-main.418898f2.js",
+    "runtime-main.js.map": "/graph-creator/static/js/runtime-main.418898f2.js.map",
+    "static/css/2.11829350.chunk.css": "/graph-creator/static/css/2.11829350.chunk.css",
+    "static/js/2.431fa1a6.chunk.js": "/graph-creator/static/js/2.431fa1a6.chunk.js",
+    "static/js/2.431fa1a6.chunk.js.map": "/graph-creator/static/js/2.431fa1a6.chunk.js.map",
+    "index.html": "/graph-creator/index.html",
+    "precache-manifest.c2a859a16663eb6e05f86ca0b481186c.js": "/graph-creator/precache-manifest.c2a859a16663eb6e05f86ca0b481186c.js",
+    "service-worker.js": "/graph-creator/service-worker.js",
+    "static/css/2.11829350.chunk.css.map": "/graph-creator/static/css/2.11829350.chunk.css.map",
+    "static/js/2.431fa1a6.chunk.js.LICENSE.txt": "/graph-creator/static/js/2.431fa1a6.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.418898f2.js",
+    "static/css/2.11829350.chunk.css",
+    "static/js/2.431fa1a6.chunk.js",
+    "static/js/main.6c097edd.chunk.js"
+  ]
+}

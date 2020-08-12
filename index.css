@@ -1,0 +1,7 @@
+body {
+  overflow: hidden;
+}
+
+text {
+  pointer-events: none;
+}
