@@ -44,7 +44,6 @@ export const useForm = () => {
   });
 
   const handleChangeComplete = ({ hex }) => {
-    resetForm();
     setColor(hex);
     setFieldValue("nodecolor", hex);
   };
